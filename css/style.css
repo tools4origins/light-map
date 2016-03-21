@@ -1,0 +1,7 @@
+#map {
+    margin: 10px;
+}
+
+#map canvas:first-of-type {
+    position: absolute;
+}
